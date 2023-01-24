@@ -24,7 +24,7 @@ print('\n')
 #학생의 과목별 점수를 200으로 나누기
 percentage = student1/200 
 print(percentage) 
-#국어    0.50
+#국어    0.50 
 #영어    0.40
 #수학    0.45
 
